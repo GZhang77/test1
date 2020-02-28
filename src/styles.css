@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn02 {
+  margin-left: 20px;
+}
+.div_01 {
+  display: flex;
+}
+table {
+  border: 1px solid #ddd;
+}
+.Table {
+  border: 1px solid #ddd;
+}
